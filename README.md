@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hey 👋 I'm [Yassine](https://elky.fr/)!
 
-Sorry about the mess 😅, I'm moving back in and cleaning/updating this place 🧹🧼🧴🧽✨!
+Sorry about the mess 😅, I'm moving back in and cleaning up/updating this place 🧹🧼🧴🧽✨!
 
 <br />
 
