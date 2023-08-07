@@ -35,6 +35,7 @@ Sorry about the mess 😅, I'm moving back in and cleaning up/updating this plac
 <br />
 <br />
 
-
-I'm a Research Engineer currently working on an [electrostatic latching micro-robot prototype](https://phigi.io) and its associated testing apparatus, where I exercice and hone my knowledge in analog and digital electronics design, CAD design, and clean room fabrication techniques. Prior to this, I had the opportunity to work as a Teaching Assistant at Université de Lorraine, where I taught various subjects, including Computer Architecture, Algorithmics, and C programming. I also hold a Ph.D. in Mathematics and Computer Science from the University of Lorraine, where my research focused on Bayesian inference for activities of daily living detection for elderly home care applications.
+I am an R&D engineer specializing in embedded systems design and implementation.
+My passion lies in tackling challenging engineering physics problems through innovative tooling, hardware/software instrumentation, sensor development, microfabrication, algorithmics, and statistical analysis.
+I also like playing around with math/programming puzzles, cryptography, control theory and tight embedded implementations of algorithms on constrained hardware.
 
